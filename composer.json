@@ -1,0 +1,19 @@
+{
+    "name": "snic104/logger",
+    "description": "isMidnightNow",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kent",
+            "email": "Kent.hsieh@104.com.tw"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload":{
+        "psr-4": {
+              "Php\\Exam\\": "src/"
+          }
+      },
+    "require": {}
+}
